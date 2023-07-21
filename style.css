@@ -1,0 +1,35 @@
+#services{
+    margin-top: 2%;
+    border-color: red;
+}
+
+#diplome{
+    width: 45px;
+    height: 45px;
+}
+#asam{
+    width: 70px;
+    height: 70px;
+}
+
+#about{
+    margin-top: 2%;
+}
+
+#formation{
+    margin-top: 2%;
+}
+
+#experience{
+    margin-top: 2%;
+}
+
+
+#competences{
+    margin-top: 2%;
+}
+
+#reference{
+    margin-top: 2%;
+    background-color: blue;
+}
